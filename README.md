@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisna</h1>
 <h3 align="center">A passionate software developer from Bali, Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
 - 🌱 I’m currently learning **React, and Django**
 
