@@ -14,7 +14,7 @@
 <a href="https://www.leetcode.com/krisnadharma1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krisnadharma1412" height="30" width="40" /></a>
 </p>
 
-### Tech Stack
+<h3 align="left">Tech Stack</h3>
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
