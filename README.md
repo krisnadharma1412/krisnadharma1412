@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Krisna</h1>
 <h3 align="center">A passionate software developer from Bali, Indonesia</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+
+<br>
 
 - 🌱 I’m currently learning **React, and Django**
 
 - 👨‍💻 Web Portofolio [https://krisnadharma.vercel.app/](https://krisnadharma.vercel.app/)
 
 - 📫 How to reach me **iputukrisnadharma@gmail.com**
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/i-putu-krisna-dharma-saputra-01084014b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i-putu-krisna-dharma-saputra-01084014b/" height="30" width="40" /></a>
@@ -39,11 +41,13 @@
 ### Platforms & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-purple.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
+## Git Hub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisnadharma1412&show_icons=true&locale=en&layout=compact" alt="krisnadharma1412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisnadharma1412&show_icons=true&locale=en" alt="krisnadharma1412" /></p>
