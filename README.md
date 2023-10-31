@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisna</h1>
 <h3 align="center">A passionate software developer from Bali, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
 - 🌱 I’m currently learning **React, and Django**
 
@@ -14,7 +14,7 @@
 <a href="https://www.leetcode.com/krisnadharma1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krisnadharma1412" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h3>
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
