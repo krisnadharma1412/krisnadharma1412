@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React, and Django**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Web Portofolio [https://krisnadharma.vercel.app/](https://krisnadharma.vercel.app/)
 
