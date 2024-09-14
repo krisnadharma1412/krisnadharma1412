@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/i-putu-krisna-dharma-saputra-01084014b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i-putu-krisna-dharma-saputra-01084014b/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krisnadharma1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krisnadharma1412" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/krisnadharma1412" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="krisnadharma1412" height="30" width="40" /></a>  
 </p>
 <br>
 <h2 align="left">Tech Stack</h3>
