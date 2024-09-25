@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krisna Dharma</h1>
 
 <h3 align="center">A passionate software engineer from Bali, Indonesia</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
-
+<div align="center">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+</div>
 <br>
 
 - 🌱 I’m currently learning **React**
