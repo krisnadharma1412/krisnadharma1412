@@ -54,7 +54,7 @@
 
 ## Code Wars Stats
 <p><img align="left" src="https://www.codewars.com/users/krisnadharma1412/badges/large" alt="Code Wars Stats" /></p>
-
+<br><br>
 ## Git Hub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisnadharma1412&show_icons=true&locale=en&layout=compact" alt="krisnadharma1412" /></p>
 
