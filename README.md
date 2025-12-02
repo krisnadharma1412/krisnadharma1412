@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Putu Krisna Dharma</h1>
+<h1 align="center">Hi 👋, I'm Krisna Dharma</h1>
 
 <h3 align="center">A passionate software developer from Bali, Indonesia</h3>
 <div align="center">
